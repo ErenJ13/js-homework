@@ -1,0 +1,22 @@
+.selected {
+    background-color: rgb(146, 146, 146);
+    border: 1px solid black;
+}
+
+.selected1 {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+}
+
+.cat {
+    width: 50%;
+    height: 50%;
+}
+
+.bg {
+    width: 400px;
+    height: 400px;
+    background: purple;
+}
